@@ -34,8 +34,8 @@
 23        android:extractNativeLibs="false"
 24        android:label="IntelliTranslator"
 24-->/home/vic/app/app/src/main/AndroidManifest.xml:5:9-42
-25        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" >
-25-->/home/vic/app/app/src/main/AndroidManifest.xml:6:9-77
+25        android:theme="@style/Theme.IntelliTranslator" >
+25-->/home/vic/app/app/src/main/AndroidManifest.xml:6:9-55
 26        <activity
 26-->/home/vic/app/app/src/main/AndroidManifest.xml:7:9-12:20
 27            android:name="com.victor.translator.ui.MainActivity"

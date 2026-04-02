@@ -4,3 +4,4 @@ id inputText
 id outputText
 id translateBtn
 layout activity_main
+style Theme.IntelliTranslator

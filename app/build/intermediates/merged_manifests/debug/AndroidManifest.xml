@@ -22,7 +22,7 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:label="IntelliTranslator"
-        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" >
+        android:theme="@style/Theme.IntelliTranslator" >
         <activity
             android:name="com.victor.translator.ui.MainActivity"
             android:exported="true" >

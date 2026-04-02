@@ -113,7 +113,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vic/.gradle/caches/tr
 	android:label
 		ADDED from /home/vic/app/app/src/main/AndroidManifest.xml:5:9-42
 	android:theme
-		ADDED from /home/vic/app/app/src/main/AndroidManifest.xml:6:9-77
+		ADDED from /home/vic/app/app/src/main/AndroidManifest.xml:6:9-55
 activity#com.victor.translator.ui.MainActivity
 ADDED from /home/vic/app/app/src/main/AndroidManifest.xml:7:9-12:20
 	android:exported
