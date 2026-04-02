@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id inputText
+id outputText
+id translateBtn
+layout activity_main
